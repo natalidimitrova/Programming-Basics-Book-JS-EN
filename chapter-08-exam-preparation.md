@@ -1,6 +1,6 @@
 # Chapter 8.1. Practical Exam Preparation - Part I
 
-In **the present chapter**, we will examine a few **problems** with a level of **difficultly** that can be expected in **the problems** of the practical **exam** in “Programming Basics”. We will **review** and **practice** all the knowledge that was gained from this book and through the "Programming Basics" course.
+In **the present chapter**, we will examine a few **problems** with a level of **difficulty** that can be expected in **the problems** of the practical **exam** in “Programming Basics”. We will **review** and **practice** all the knowledge that was gained from this book and through the "Programming Basics" course.
 
 
 ## Video
@@ -192,11 +192,11 @@ The shorter of the two **distances** we will find by using **`Math.min(…)`**.
 
 ![](assets/chapter-8-1-images/03.Point-on-segment-06.png)
 
-What remains is to find whether **the point** is on or out of the line. The point will be **on the lines** always when it **matches** one of the other two points or its x coordinate lies **between them**. Otherwise, the point is **outside the line**.  After checking, we display one of the two messages, depending on which condition is satisfied.
+What remains is to find whether **the point** is on or out of the line. The point will be **on the line** always when it **matches** one of the other two points or its x coordinate lies **between them**. Otherwise, the point is **outside the line**.  After checking, we display one of the two messages, depending on which condition is satisfied.
 
 ![](assets/chapter-8-1-images/03.Point-on-segment-07.png)
 
-Finally, we print **the distance** which we fine before.
+Finally, we print **the distance** found before.
 
 ![](assets/chapter-8-1-images/03.Point-on-segment-08.png)
 
@@ -291,11 +291,11 @@ We take the input from the console.
 
 ![](assets/chapter-8-1-images/05.Date-after-5-days-01.png)
 
-To make our checks easier, we'll create a variable that will contain the **number of days** that we have in the month we set.
+To make our checks easier, we will create a variable that will contain the **number of days** that we have in the month we set.
 
 ![](assets/chapter-8-1-images/05.Date-after-5-days-02.png)
 
-We are increasing **the day** with 5.
+We increase the ** day ** by 5.
 
 ![](assets/chapter-8-1-images/05.Date-after-5-days-03.png)
 
